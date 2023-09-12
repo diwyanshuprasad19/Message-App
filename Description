@@ -1,0 +1,11 @@
+Live video:https://drive.google.com/file/d/1fg6R9-MqkiGDWbNMNwtQAGbDaR99Nmdm/view?usp=sharing
+
+Description:Introducing our straightforward chat app – no frills, no fuss. Skip the hassle of signing up and logging in. With our app, it's all about simplicity. Just pick an avatar and a unique username, and you're in.
+
+Powered by basic socket technology, our app enables real-time chatting. Connect with friends or new acquaintances instantly. Send text messages back and forth with ease.
+
+Plus, registered users can delete their messages, giving you control over your conversations. It's all about keeping it simple and straightforward – the perfect choice for no-nonsense, basic chatting.
+
+
+
+Technology Stack: React, ExpressJs, NodeJs, MongoDB, Socket
